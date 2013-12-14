@@ -43,3 +43,25 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# uploader de fisiere
+gem "carrierwave"
+
+# citeste/scrie taguri id3 pentru fisiere mp3
+#gem 'id3lib-ruby'
+
+# Login
+gem 'devise'
+
+# Pentru bara de sus (login)
+gem 'bootstrap-sass'
+
+gem 'taglib-ruby'
+
+#gem 'strong_parameters'
+
+#gem 'protected_attributes'
+
+gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails'
+
+gem "mediaelement_rails"
